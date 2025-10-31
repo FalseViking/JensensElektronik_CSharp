@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JensensElektronik_CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff25e7032f33300680e17fd5725b5c03be76624")]
 [assembly: System.Reflection.AssemblyProductAttribute("JensensElektronik_CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JensensElektronik_CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

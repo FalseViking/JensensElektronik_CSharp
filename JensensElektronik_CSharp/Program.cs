@@ -1,6 +1,11 @@
-﻿/* Whatever kode her uploades til github by magic.
- *
- * 
- */
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Ny linje for sjov skyld");
+﻿// Imports af libraries
+using System;
+using System.IO;
+using OfficeOpenXml;
+using OfficeOpenXml.Style;
+
+// Namespace og klasse af projekt
+namespace JensensElektronik_CSharp
+{
+    class Program
+}
