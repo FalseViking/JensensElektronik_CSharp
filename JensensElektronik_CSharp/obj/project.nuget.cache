@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sAA/B+gdAw=",
+  "success": true,
+  "projectFilePath": "/home/falseviking/RiderProjects/JensensElektronik_CSharp/JensensElektronik_CSharp/JensensElektronik_CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/falseviking/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
