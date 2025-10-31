@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿/* Whatever kode her uploades til github by magic.
+ *
+ * 
+ */
 Console.WriteLine("Hello, World!");
